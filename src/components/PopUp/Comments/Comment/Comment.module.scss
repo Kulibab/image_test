@@ -1,0 +1,15 @@
+.wrap {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 20px;
+
+  .name {
+    color: #777;
+    margin: 5px 0;
+  }
+
+  .desc {
+    font-weight: bold;
+    margin: 0;
+  }
+}
